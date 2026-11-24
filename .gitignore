@@ -1,0 +1,8 @@
+# Compiled MetaTrader 5 binaries & logs
+*.ex5
+*.log
+*.bak
+*.tmp
+MQL5/Logs/
+MQL5/Files/*.onnx
+.DS_Store
